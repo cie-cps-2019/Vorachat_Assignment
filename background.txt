@@ -1,0 +1,15 @@
+1) Ans    a) 255 decimals
+
+                 b) FF000000
+
+2) Ans    2 milliamperes
+
+3) Ans    shadow   1.3k bytes
+
+                 219 files
+
+$ cd /etc
+
+$ ls -l
+
+$ ls -l|wc -l
